@@ -1,6 +1,10 @@
 # Mathematician-Mason
 A virtual brick wall
+
+
     Problem Statement:
+
+    
     When building a brick wall, it is essential to purchase enough material. If bricks of various sizes are used,an interesting simulation of the “virtual wall” can be made to determine the number of bricks needed.For this problem, you are given the size of the wall and number of the each type of bricks available. You are to determine if the desired wall can be constructed from these bricks and what it will look like.
 Input: 5 numbers as
 			N1 = width of wall in units
