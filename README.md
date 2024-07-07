@@ -11,3 +11,5 @@ Input: 5 numbers as
 			N4 = number of type 2 bricks available
 			N5 = number of type 1 bricks available
 Type 3 bricks are 3 units wide, type 2 bricks are 2 units wide and type 1 bricks are 1 unit wide. However,they are all 1 row high.
+
+The application used is PyCharm.
